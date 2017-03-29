@@ -27,3 +27,5 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 list = input('Please enter a string of text (the bigger the better): ')
 print(list[::-1])
+list2 = list
+print(list2.split( ))
